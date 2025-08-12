@@ -23,6 +23,7 @@ list_of_files = [
     f'config/config.yaml',
     f'params.yaml',
     'main.py',
+    'app.py',
     'Dockerfile',
     'setup.py', 
     'research/research.ipynb',
